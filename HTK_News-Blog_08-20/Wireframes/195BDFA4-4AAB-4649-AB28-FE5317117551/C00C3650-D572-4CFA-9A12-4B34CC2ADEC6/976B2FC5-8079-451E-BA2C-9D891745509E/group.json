@@ -1,0 +1,176 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "976B2FC5-8079-451E-BA2C-9D891745509E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21309798-35B9-427C-8229-134D04D1F6DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64909DD4-B4EF-42E8-96FF-19844F3C32A9",
+    "height": 480,
+    "width": 1070,
+    "x": 0,
+    "y": 92
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6D2B1DD8-2E13-4A96-B879-7A10E890A582"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6F4E8EB8-8EFF-4AAB-AC8D-6A6F4BCB6A38"
+    },
+    {
+      "class": "rectangle",
+      "id": "23D53CBE-3C73-402D-B593-589B14537383"
+    },
+    {
+      "class": "rectangle",
+      "id": "3DDE3F80-025C-48E5-9B9C-3914A87F21CF"
+    },
+    {
+      "class": "rectangle",
+      "id": "B77B44DA-B61E-4511-97F1-F2E658D916EB"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E712425-FC7D-449A-B574-27751D7D2B87"
+    },
+    {
+      "class": "rectangle",
+      "id": "3CA1263B-3736-442A-B21A-EE66E9CA7101"
+    },
+    {
+      "class": "rectangle",
+      "id": "02B0F02D-BFEC-492E-979F-6D463BB869C7"
+    },
+    {
+      "class": "text",
+      "id": "50811960-722E-415E-8D6D-2B812B1D5F88"
+    },
+    {
+      "class": "rectangle",
+      "id": "9514D6FC-5F14-44E3-B7AA-B86E82B8DB5E"
+    },
+    {
+      "class": "text",
+      "id": "628F1031-624D-44C9-8670-E4BDC9381198"
+    },
+    {
+      "class": "text",
+      "id": "B021FD5E-3F3E-4C4E-88DE-8074D1618424"
+    },
+    {
+      "class": "text",
+      "id": "A26BD39B-17E4-49D5-B637-3A7C0397577F"
+    },
+    {
+      "class": "text",
+      "id": "A2308AB1-F2F3-4331-98B0-B150A6A3CA10"
+    },
+    {
+      "class": "text",
+      "id": "EAFB8072-4E78-4398-B416-A066871DF6CE"
+    },
+    {
+      "class": "text",
+      "id": "2E4B4CA0-B925-4691-84F4-DFF0C52E097F"
+    },
+    {
+      "class": "text",
+      "id": "5A5975D4-4423-407F-91B0-ECCE2CD4E9BA"
+    },
+    {
+      "class": "rectangle",
+      "id": "58FF4B31-ECF1-4ED3-9B72-9707D8B464FA"
+    },
+    {
+      "class": "text",
+      "id": "98D97F19-39AC-4D94-891E-D2AF294F432E"
+    },
+    {
+      "class": "text",
+      "id": "9B3F2518-BCF3-465A-B33D-5D5B38FA401D"
+    },
+    {
+      "class": "text",
+      "id": "5E5FED1A-EBBE-44FD-9EF2-625365FAB800"
+    },
+    {
+      "class": "text",
+      "id": "94C4E1C9-7D37-4CD8-AE7F-77964D3727B4"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B7A65CD5-3F0B-4713-BB09-F054F6097487",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

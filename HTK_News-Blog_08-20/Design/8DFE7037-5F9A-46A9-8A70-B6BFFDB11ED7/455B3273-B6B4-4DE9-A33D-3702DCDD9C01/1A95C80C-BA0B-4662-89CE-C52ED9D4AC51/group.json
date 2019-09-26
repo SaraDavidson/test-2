@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A95C80C-BA0B-4662-89CE-C52ED9D4AC51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF4B0928-9C28-4BA9-BA33-8624CDB0005F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "19C6BAC9-F597-491F-AE07-DF2850DB2A25",
+    "height": 177,
+    "width": 481,
+    "x": 57,
+    "y": 40
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D61FA734-D753-4985-B316-2277E7B603E3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "110FE1B8-3B7A-45C2-93CE-CEE1FC8717CE"
+    },
+    {
+      "class": "text",
+      "id": "681E95DF-8589-4BEA-B16B-F813E8D2D6C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02C8D339-8F63-4039-89D1-9ABCAC838BDB"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A8118DA6-F5BD-408D-806D-5071DA4B0E38",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "5E8DF791-E61C-4E36-BFEB-1FC494D2B04C",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "B2903DC6-1D0F-4557-B72F-15518CE0BF7A",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "63EAD01E-3D22-4CD2-86D4-B8F2F02ACB0F",
+      "opacity": 1
+    },
+    "do_objectID": "27648753-C7B0-4163-9C69-5B811DC8A1E8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

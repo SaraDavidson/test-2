@@ -1,0 +1,189 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E00E93E1-B6DA-4C68-AB14-2D14750C4798",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEA8DAEF-E745-4E81-B6D4-D1E80D656C06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AEF1802-5BBF-4B93-8A2D-7907B0B09E39",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "586397B0-68F8-458F-9910-44E3747F3AC0",
+    "height": 900,
+    "width": 1280,
+    "x": 4867,
+    "y": -559.9999999999995
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "430D2499-DD97-4900-B846-B159A9E7A560",
+    "gridSize": -9223372036854776000,
+    "isEnabled": false,
+    "thickGridTimes": -9223372036854776000
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "89B1EB62-B418-49B1-9AFA-5DC8DCCB7B50"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D6F06BDC-7CA0-45FC-8B94-9AC7416227AF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4C570E8D-8A20-4855-A32B-45B88E797BF2"
+    },
+    {
+      "class": "group",
+      "id": "147FCA22-5C62-4E9D-AC54-F2D98F82B5D6"
+    },
+    {
+      "class": "rectangle",
+      "id": "3C86D16A-5700-4DE2-A418-0D10FB0212FF"
+    },
+    {
+      "class": "text",
+      "id": "266FABC2-9E60-4DCE-AAE3-545B5DA50967"
+    },
+    {
+      "class": "group",
+      "id": "112781AA-C80A-4E0E-815D-EF170876A16D"
+    },
+    {
+      "class": "group",
+      "id": "7656A51C-3C23-4C4A-9894-A80A1C444A37"
+    },
+    {
+      "class": "group",
+      "id": "2CDF6BBE-3175-4143-A91F-C89465EB1ABC"
+    },
+    {
+      "class": "text",
+      "id": "9E5A0F36-63BF-4F2E-8154-36A1E5CE3889"
+    },
+    {
+      "class": "text",
+      "id": "743AA5FC-C1ED-4438-8A32-F658CA37CA3B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 41,
+    "do_objectID": "77331780-D3D9-4C73-9F3C-16FF001F0EC4",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8,
+    "guttersOutside": false,
+    "horizontalOffset": 56,
+    "isEnabled": false,
+    "numberOfColumns": 24,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1168
+  },
+  "maintainScrollPosition": false,
+  "name": "1280 - News and Blog - Gallery Lightbox",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "91593526-42EC-4855-A4FF-E3C4B6352850",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8F3FDC7F-C4B3-43AA-A77C-C4D3D857756C",
+    "guides": [
+    ]
+  }
+}

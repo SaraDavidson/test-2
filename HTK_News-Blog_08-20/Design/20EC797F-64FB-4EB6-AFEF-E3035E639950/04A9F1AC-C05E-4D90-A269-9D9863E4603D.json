@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "04A9F1AC-C05E-4D90-A269-9D9863E4603D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A8ADAAF-9E74-451E-B6C9-E2A291801C3A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3380DCA8-75DF-42CC-9389-591471AC5325",
+    "height": 18,
+    "width": 173,
+    "x": 56,
+    "y": 144.9999999999995
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
+  "name": "Back Button - Dark Gunmetal - 1280, 960px",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31D212E2-4118-49D8-9C42-F6E0122180FF",
+      "overrideName": "5BF62E7E-A146-4FEC-AE4D-1C8523AAB435_stringValue",
+      "value": "News & Insights"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BC2266FD-9737-473B-AEDF-A901CDF69731",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "C8787FC7-35BD-4206-A740-EAE6A93E977D",
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "do_objectID": "02530DB6-31B2-408F-86BE-743DE4F86683",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "DDAFC63C-1F96-41F3-A9CD-69C5CCC28847",
+      "opacity": 1
+    },
+    "do_objectID": "3DB654B5-D85C-43CE-8A6D-7C261F7F26C3",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "68DED00A-F5CF-4544-AE50-94C5222247D4",
+  "verticalSpacing": 0
+}

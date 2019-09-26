@@ -1,0 +1,176 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12EC27CA-1F83-4FAF-98DE-E5C01A96D2B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "00FEB160-B00B-4C9E-BDDF-F32FFDCB6047",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9B581C99-1373-4FA0-9CBF-8DF5292AEC8C",
+    "height": 480,
+    "width": 1070,
+    "x": 2,
+    "y": 91.99999999999977
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "833CF39A-D12A-491E-A4E0-4240EDF57EAD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F6772C14-4334-4AA2-A31B-B71AB5D1B50D"
+    },
+    {
+      "class": "rectangle",
+      "id": "4025D6AA-9856-48F4-905A-D3AF1CE4B551"
+    },
+    {
+      "class": "rectangle",
+      "id": "11F753B9-0B60-4565-BE40-58AA742676D6"
+    },
+    {
+      "class": "rectangle",
+      "id": "B9FC04F6-631C-4560-9AAE-B804DF854E60"
+    },
+    {
+      "class": "rectangle",
+      "id": "83DBE9EA-AEBF-4013-B85F-AC197A24D90A"
+    },
+    {
+      "class": "rectangle",
+      "id": "3F349A65-395C-4988-ACF7-8A40A218ED8D"
+    },
+    {
+      "class": "rectangle",
+      "id": "741E72B9-99F4-4DB1-BAD5-5EE639C8D0A4"
+    },
+    {
+      "class": "text",
+      "id": "72EF081A-BE1A-414A-83D2-D0DE04AE8157"
+    },
+    {
+      "class": "rectangle",
+      "id": "AC29C6EA-7B45-4543-88E1-EA328405F2AF"
+    },
+    {
+      "class": "text",
+      "id": "0CB3E2DC-977B-4DB5-9D8E-B221FF699A39"
+    },
+    {
+      "class": "text",
+      "id": "5E088BAA-3F2E-4D6F-89CE-ECC31D1D1E5E"
+    },
+    {
+      "class": "text",
+      "id": "E95DB03E-D9E2-4C4D-A63D-55EEB0CE402D"
+    },
+    {
+      "class": "text",
+      "id": "ECA143E8-4377-4098-B2B9-1F8799647607"
+    },
+    {
+      "class": "text",
+      "id": "F7AB286E-B61E-474E-8D56-6DE0B6A99024"
+    },
+    {
+      "class": "text",
+      "id": "0500BB0A-D2E1-4BD8-9E95-F2A470FBC754"
+    },
+    {
+      "class": "text",
+      "id": "DFB8A9DF-6CF0-445C-86A2-97BE07A4ED1C"
+    },
+    {
+      "class": "rectangle",
+      "id": "9196ECEE-EB4C-411E-BCF4-2DF287C04F77"
+    },
+    {
+      "class": "text",
+      "id": "7563C209-40BC-4A46-8CF3-F7A825C02B41"
+    },
+    {
+      "class": "text",
+      "id": "218F0789-9151-4794-9228-E815D1A99EA6"
+    },
+    {
+      "class": "text",
+      "id": "D030D588-0192-4D1A-815F-8198097C7797"
+    },
+    {
+      "class": "text",
+      "id": "BC22D23B-1A63-4F4D-A440-4E96FDD06BB5"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F3184151-0F48-4F05-8A63-151813FC89E2",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
