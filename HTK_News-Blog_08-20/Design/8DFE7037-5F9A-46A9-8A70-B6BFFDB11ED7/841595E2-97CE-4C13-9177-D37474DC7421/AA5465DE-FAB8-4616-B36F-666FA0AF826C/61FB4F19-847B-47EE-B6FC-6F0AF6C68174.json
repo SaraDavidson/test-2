@@ -29,11 +29,11 @@
             "minimumLineHeight": 43
           }
         },
-        "length": 17,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Lorem Ipsum Dolor"
+    "string": "this is actual text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -59,7 +59,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 7}, {302, 36}}",
+  "glyphBounds": "{{0, 7}, {268, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "Lorem Ipsum Dolor",
+  "name": "this is actual text",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
